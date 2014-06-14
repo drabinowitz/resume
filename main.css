@@ -5,7 +5,14 @@ header{
 	overflow: auto;
 	width: 100%;
 	min-width: 920px;
-	background: rgba(200,200,200,0.7);
+	background: #F7F7F7;
+	text-align: center;
+}
+
+#name{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 24px;
+	margin: 15px 0px;
 }
 body{
 	position: absolute;

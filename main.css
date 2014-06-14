@@ -1,0 +1,13 @@
+/*header*/
+header{
+	position: fixed;
+	top: 0;
+	overflow: auto;
+	width: 100%;
+	min-width: 920px;
+	background: rgba(200,200,200,0.7);
+}
+body{
+	position: absolute;
+	top: 300px;
+}
